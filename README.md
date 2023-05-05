@@ -105,9 +105,9 @@ rosrun vision lego-vision.py -show
 
 ### Contributors
 
-| Name                    | ID'S   | Github                               |
-|-------------------------|--------|--------------------------------------|
-| Aldo Oziel Peña Gamboa  | 169382 | https://github.com/davidecerpelloni  |
-| Leonardo Collizzolli    | 209316 | https://github.com/leocolliz         |
-| Pietro Lechthaler       | 210601 | https://github.com/pietrolechthaler  |
-| Stefano Rizzi           | 209684 | https://github.com/StefanoRizzi      |
+| Name                          | ID'S   | Github                               |
+|-------------------------------|--------|--------------------------------------|
+| Aldo Oziel Peña Gamboa        | 169382 | https://github.com/davidecerpelloni  |
+| Leonardo Collizzolli          | 209316 | https://github.com/leocolliz         |
+| Jesús Eduardo Ávila Maldonado | 170423 | https://github.com/Eduardoam12       |
+| Stefano Rizzi                 | 209684 | https://github.com/StefanoRizzi      |
