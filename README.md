@@ -108,6 +108,6 @@ rosrun vision lego-vision.py -show
 | Name                          | ID'S   | Github                               |
 |-------------------------------|--------|--------------------------------------|
 | Aldo Oziel Peña Gamboa        | 169382 | https://github.com/davidecerpelloni  |
-| Abner Zapién García           | 160262 | https://github.com/         |
+| Abner Zapién García           | 160262 | https://github.com/AbnerZapien       |
 | Jesús Eduardo Ávila Maldonado | 170423 | https://github.com/Eduardoam12       |
 | Henry Antonio Gamas Mijango   | 170964 | https://github.com/HenriGM           |
