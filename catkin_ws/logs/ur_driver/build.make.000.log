@@ -1,0 +1,4 @@
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/URDriver.cfg: /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_driver/include/ur_driver/URDriverConfig.h /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py[0m
+Generating reconfiguration files for URDriver in ur_driver
+Wrote header file in /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_driver/include/ur_driver/URDriverConfig.h
+[100%] Built target ur_driver_gencfg

@@ -1,0 +1,9 @@
+robot/universal_robot/ur_kinematics
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/cmake.lock /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/./cmake.lock
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur3_kin.so /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur3_kin.so
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur5_kin.so /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur5_kin.so
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/libur10_kin.so /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/libur10_kin.so
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/pkgconfig/ur_kinematics.pc
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/lib/python3/dist-packages/ur_kinematics/__init__.py /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake
+/home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake /home/ap/UR5-Pick-and-Place-Simulation/catkin_ws/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
