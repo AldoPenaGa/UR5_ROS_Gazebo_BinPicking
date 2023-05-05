@@ -63,12 +63,12 @@ After installing the libraries and programs listed above:
 
 1- Clone this repo:
 ```
-git clone https://github.com/pietrolechthaler/UR5-Pick-and-Place-Simulation/
+git clone https://github.com/AldoPenaGa/UR5_ROS_Gazebo_BinPicking
 ```
 
 2- Setup the project:
 ```
-cd UR5-Pick-and-Place-Simulation/catkin_ws
+cd UR5_ROS_Gazebo_BinPicking
 source /opt/ros/noetic/setup.bash
 catkin build
 source devel/setup.bash
