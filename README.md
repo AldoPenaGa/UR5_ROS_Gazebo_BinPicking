@@ -3,7 +3,7 @@
 
   <p align="center">
   Improvements made to pietrolechthaler's and his group project titled: "UR5 Pick and Place Simulation in Ros/Gazebo". This project has been modified to serve as evaluation in the subject Robot Kinematics and Dynamics taught in University of Americas Puebla
-  <br>University of the Americas Puebla - Prof. href="https://www.linkedin.com/in/c%C3%A9sar-martinez-torres-617b5347/?originalSubdomain=mx>" Dr. César Martínez Torres.
+  <br>University of the Americas Puebla - Prof. Dr. César Martínez Torres. "https://www.linkedin.com/in/c%C3%A9sar-martinez-torres-617b5347/?originalSubdomain=mx>" 
   </p>
 </p>
 <br>
