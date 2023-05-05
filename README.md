@@ -21,7 +21,7 @@
 - [Contributors](#contributors)
 
 ### Credits
-It is vital to mention the importance and influence of the project developed by students Davice Cerpelloni, Leonardo Collizzolli, Pietro Lechthaler and Stefano Rizzi from the University of Trento, who were under the tutelage of Dr. Luigi Palopoli and Dr. Niculae Sebe, titled \textit{UR5 Pick and Place Simulation in Ros/Gazebo}. This project is available at https://github.com/pietrolechthaler/UR5-Pick-and-Place-Simulation. It is crucial to note that our project is largely based on theirs, however, there are some variations and advances. Likewise, we appreciate their contribution and give due credit to their work.
+It is vital to mention the importance and influence of the project developed by students Davice Cerpelloni, Leonardo Collizzolli, Pietro Lechthaler and Stefano Rizzi from the University of Trento, who were under the tutelage of Dr. Luigi Palopoli and Dr. Niculae Sebe, titled "UR5 Pick and Place Simulation in Ros/Gazebo". This project is available at https://github.com/pietrolechthaler/UR5-Pick-and-Place-Simulation. It is crucial to note that our project is largely based on theirs, however, there are some variations and advances. Likewise, we appreciate their contribution and give due credit to their work.
 
 ### Description
 This repository demonstrates UR5 bin-picking in ROS and Gazebo. The UR5 uses a Xbox Kinect camera to detect eleven types of LEGO Bricks, once this is done, it publishes its position and orientation. 
