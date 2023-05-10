@@ -13,9 +13,9 @@
 ## Table of contents
 - [Credits](#credits)
 - [Description](#description)
-- [GIF's](#gifs)
-- [Requirements](#requirements)
+- [Changes made](#changes)
 - [Folder](#folder)
+- [Requirements](#requirements)
 - [Setup](#setup)
 - [Instructions](#instructions)
 - [Contributors](#contributors)
@@ -32,6 +32,15 @@ The goals of this project are:
 - The robotic arm must be able to perform the place of the pieces nevertheless the configuration of the pieces located in the bin. 
 
 <img src="https://github.com/AldoPenaGa/UR5_ROS_Gazebo_BinPicking/blob/main/orientation.gif">
+
+### Changes made:
+Comparing to the original project made by Pietro Lechthaler and his team, the following changes were made:
+- Each block has now a determined color.
+- The skin of the table was changed (in which now is included a table with the blocks and its colors)
+- The camera and the workspace were moved in order to match the skin of the table and avoid errors.
+- Translation of motion_planning and levelManager to spanish.
+- The command -b (of levelManager), which spawns specified blocks was enabled.
+- Some bugs were fixed.
 
 ### Folder
 ```
